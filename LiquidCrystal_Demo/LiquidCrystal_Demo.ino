@@ -1,4 +1,4 @@
-#include <LiquidCrystal.h>
+#include <LiquidCrystal.h> // Required for creating objects
 
 LiquidCrystal lcd(11, 10, 5, 4, 3, 2);
 
