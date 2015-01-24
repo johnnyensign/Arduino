@@ -1,6 +1,6 @@
 #include <LiquidCrystal.h> // Required for creating objects
 
-LiquidCrystal lcd(11, 10, 5, 4, 3, 2);
+LiquidCrystal lcd(11, 10, 5, 4, 3, 2); // Create object
 
 void setup() {
   
