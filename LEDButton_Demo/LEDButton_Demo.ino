@@ -1,4 +1,4 @@
-const int ledPin = 12;
+const int ledPin = 12; // LED Pin
 const int button1Pin = 0;
 
 int ledState = HIGH;
