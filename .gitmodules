@@ -1,3 +1,6 @@
 [submodule "DuinOS"]
 	path = DuinOS
 	url = http://github.com/DuinOS/Arduino
+[submodule "RTuinOS"]
+	path = RTuinOS
+	url = https://github.com/PeterVranken/RTuinOS
